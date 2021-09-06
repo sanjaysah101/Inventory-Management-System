@@ -1,0 +1,234 @@
+{
+    "1601": {
+        "pName": "Dairy Milk",
+        "unitPrice": 20,
+        "inStock": 98,
+        "manufacturingDate": "23/12/2021",
+        "category": "Chocolate",
+        "description": "Sugar Free"
+    },
+    "1602": {
+        "pName": "Bournbita",
+        "unitPrice": 50,
+        "inStock": 140,
+        "manufacturingDate": "23/12/2021",
+        "category": "Protein",
+        "description": "Sugar Free"
+    },
+    "1603": {
+        "pName": "Biscuit",
+        "unitPrice": 10,
+        "inStock": 870,
+        "manufacturingDate": "23/12/2021",
+        "category": "Protein",
+        "description": "Sugar Free"
+    },
+    "1604": {
+        "pName": "Noodles",
+        "unitPrice": 10,
+        "inStock": 424,
+        "manufacturingDate": "23/12/2021",
+        "category": "Dry product",
+        "description": "without Fat"
+    },
+    "1606": {
+        "pName": "Complain",
+        "unitPrice": 402,
+        "inStock": 90,
+        "manufacturingDate": "23/12/2021",
+        "category": "Protein",
+        "description": "Sugar Free"
+    },
+    "1607": {
+        "pName": "Redmi Note 8",
+        "unitPrice": 29999,
+        "inStock": 10,
+        "manufacturingDate": "23/12/2021",
+        "category": "Mobile",
+        "description": "Portable"
+    },
+    "1608": {
+        "pName": "Ear phone",
+        "unitPrice": 399,
+        "inStock": 100,
+        "manufacturingDate": "23/12/2021",
+        "category": "Gadget",
+        "description": "Soft and Strong"
+    },
+    "1609": {
+        "pName": "Mouse",
+        "unitPrice": 500,
+        "inStock": 30,
+        "manufacturingDate": "23/12/2021",
+        "category": "Gadget",
+        "description": "Wire Less"
+    },
+    "1610": {
+        "pName": "Charge",
+        "unitPrice": 200,
+        "inStock": 20,
+        "manufacturingDate": "23/12/2021",
+        "category": "Gadget",
+        "description": "Multi Charger"
+    },
+    "1611": {
+        "pName": "T Shirt",
+        "unitPrice": 500,
+        "inStock": 50,
+        "manufacturingDate": "23/12/2021",
+        "category": "Clothes",
+        "description": "Summer Clothes"
+    },
+    "1612": {
+        "pName": "Paint",
+        "unitPrice": 800,
+        "inStock": 30,
+        "manufacturingDate": "23/12/2021",
+        "category": "Clothes",
+        "description": "Best for summer"
+    },
+    "1613": {
+        "pName": "Ear Pod",
+        "unitPrice": 999,
+        "inStock": 12,
+        "manufacturingDate": "23/12/2021",
+        "category": "Gadget",
+        "description": "Best Ear Pod"
+    },
+    "1614": {
+        "pName": "School Bag",
+        "unitPrice": 399,
+        "inStock": 20,
+        "manufacturingDate": "23/12/2021",
+        "category": "School",
+        "description": "Best for boys"
+    },
+    "1615": {
+        "pName": "School Cap",
+        "unitPrice": 199,
+        "inStock": 25,
+        "manufacturingDate": "23/12/2021",
+        "category": "School",
+        "description": "Boys Cap"
+    },
+    "1616": {
+        "pName": "Ramayan",
+        "unitPrice": 999,
+        "inStock": 90,
+        "manufacturingDate": "23/12/2021",
+        "category": "Books",
+        "description": "Religious Book"
+    },
+    "1617": {
+        "pName": "Sun Glass",
+        "unitPrice": 599,
+        "inStock": 20,
+        "manufacturingDate": "23/12/2021",
+        "category": "Fashion",
+        "description": "Red Color Sun Glass"
+    },
+    "1618": {
+        "pName": "Chair",
+        "unitPrice": 399,
+        "inStock": 90,
+        "manufacturingDate": "23/12/2021",
+        "category": "Furniture",
+        "description": "Comfortable Chair"
+    },
+    "1619": {
+        "pName": "LED Bulb",
+        "unitPrice": 249,
+        "inStock": 199,
+        "manufacturingDate": "23/12/2021",
+        "category": "Electric",
+        "description": "Low Power Electric Led Bulb"
+    },
+    "1620": {
+        "pName": "Printer",
+        "unitPrice": 1999,
+        "inStock": 90,
+        "manufacturingDate": "23/12/2021",
+        "category": "Protein",
+        "description": "Sugar Free"
+    },
+    "1621": {
+        "pName": "Bed Sheet",
+        "unitPrice": 499,
+        "inStock": 90,
+        "manufacturingDate": "23/12/2021",
+        "category": "Fashion",
+        "description": "Forest Theme Bed Sheet"
+    },
+    "162": {
+        "pName": "Calculator",
+        "unitPrice": 899,
+        "inStock": 20,
+        "manufacturingDate": "23/12/2021",
+        "category": "Stationary",
+        "description": "Scientific Calculator"
+    },
+    "1623": {
+        "pName": "Tiffin",
+        "unitPrice": 59,
+        "inStock": 100,
+        "manufacturingDate": "23/12/2021",
+        "category": "School",
+        "description": "Tiffin for Girl"
+    },
+    "1624": {
+        "pName": "Black Blet",
+        "unitPrice": 399,
+        "inStock": 90,
+        "manufacturingDate": "23/12/2021",
+        "category": "Fashion",
+        "description": "Belt for Boys"
+    },
+    "1625": {
+        "pName": "Shoes",
+        "unitPrice": 599,
+        "inStock": 90,
+        "manufacturingDate": "23/12/2021",
+        "category": "School",
+        "description": "Black Shoes"
+    },
+    "1626": {
+        "pName": "Shocks",
+        "unitPrice": 99,
+        "inStock": 90,
+        "manufacturingDate": "23/12/2021",
+        "category": "School",
+        "description": "Shocks for Boys & Girls"
+    },
+    "1627": {
+        "pName": "Measure Tap",
+        "unitPrice": 199,
+        "inStock": 90,
+        "manufacturingDate": "23/12/2021",
+        "category": "School",
+        "description": "Light Weight"
+    },
+    "1628": {
+        "pName": "Watch",
+        "unitPrice": 402,
+        "inStock": 90,
+        "manufacturingDate": "23/12/2021",
+        "category": "Fashion",
+        "description": "Watch for Boys"
+    },
+    "1629": {
+        "pName": "Pen Drice",
+        "unitPrice": 299,
+        "inStock": 80,
+        "manufacturingDate": "23/12/2021",
+        "category": "Electronic",
+        "description": "80 GB Pen Drive"
+    },
+    "1630": {
+        "pName": "Buccets",
+        "unitPrice": 99,
+        "inStock": 100,
+        "manufacturingDate": "23/12/2021",
+        "category": "Fashion",
+        "description": "Green Color"
+    }
+}
