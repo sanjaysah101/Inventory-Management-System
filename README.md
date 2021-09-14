@@ -13,5 +13,3 @@
         <li>Shop items will show to login users only</li>
         <li>Exit</li>
     </ul>
-    
- ## df
