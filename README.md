@@ -1,4 +1,4 @@
-# IMS
+# Inventory Management System 
 <p>ELT (Elite Techno Group) Python AI Summer Internship - Inventory Management System Project. </p>
 
 <h2>Features</h2>
